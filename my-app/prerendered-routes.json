@@ -1,0 +1,12 @@
+{
+  "routes": [
+    "/",
+    "/about",
+    "/contact",
+    "/education",
+    "/experience",
+    "/home",
+    "/projects",
+    "/skills"
+  ]
+}
